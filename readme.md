@@ -1,8 +1,4 @@
 # GravityGuard Bot 
-![DarkDeity Discord Bot Logo](https://github.com/DrDead0/Deity_Discord-Bot/blob/main/Logo/logo-2.png)
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Table of Contents
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
@@ -17,7 +13,7 @@
 
 ## Introduction
 
-DarkDeity Discord Bot is designed to improve your Discord server with a variety of engaging features, such as music playing, helpful commands, and more. This bot is a general-purpose bot for enhancing the server experience while leaving server moderation to the **Soul Police Bot**.
+GravityGuard Bot is designed to improve your Discord server with a variety of engaging features, such as music playing, helpful commands, and more. This bot is a general-purpose bot for enhancing the server experience while leaving server moderation to the **GravityGuard Bot**.
 
 ## Features
 
@@ -35,7 +31,7 @@ To set up the DarkDeity Discord Bot on your server, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/DrDead0/Deity_Discord-Bot.git
+    https://github.com/zeroaxiis/GravityGuard.git
     ```
 
 2. Navigate to the project directory:
@@ -97,12 +93,12 @@ Here is a list of available commands:
 
 ## Support
 
-If you encounter any issues or have questions, please create an issue on the [GitHub repository](https://github.com/DrDead0/Deity_Discord-Bot/issues) or reach out for support.
+If you encounter any issues or have questions, please create an issue on the [GitHub repository](https://github.com/zeroaxiis/GravityGuard.git/issues) or reach out for support.
 
 ## Contact
 
-Created by [Ashish Chaurasiya](https://github.com/DrDead0) & [Varchsava Khare](https://github.com/varchasvakhare2022) - Feel free to contact us!
+Created by [Ashish Chaurasiya](https://github.com/DrDead0).
 
 ## License
 
-This project is licensed under the MIT License - [To See The LICENSE Click Here](https://github.com/DrDead0/Deity_Discord-Bot/blob/main/LICENSE)
+This project is licensed under the MIT License - [To See The LICENSE Click Here](https://github.com/zeroaxiis/GravityGuard?tab=GPL-3.0-1-ov-file)
