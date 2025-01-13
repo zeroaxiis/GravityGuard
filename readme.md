@@ -1,11 +1,9 @@
-# DarkDeity Discord Bot 
+# GravityGuard Bot 
 ![DarkDeity Discord Bot Logo](https://github.com/DrDead0/Deity_Discord-Bot/blob/main/Logo/logo-2.png)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Table of Contents
-
-- [DarkDeity Discord Bot](#darkdeity-discord-bot)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
@@ -43,7 +41,7 @@ To set up the DarkDeity Discord Bot on your server, follow these steps:
 2. Navigate to the project directory:
  
     ```bash
-    cd Deity_Discord-Bot
+    cd GravityGard-Bot
     ```
 
 3. Install the required dependencies:
