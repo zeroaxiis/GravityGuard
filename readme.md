@@ -95,10 +95,6 @@ Here is a list of available commands:
 
 If you encounter any issues or have questions, please create an issue on the [GitHub repository](https://github.com/zeroaxiis/GravityGuard.git/issues) or reach out for support.
 
-## Contact
-
-Created by [Ashish Chaurasiya](https://github.com/DrDead0).
-
 ## License
 
 This project is licensed under the MIT License - [To See The LICENSE Click Here](https://github.com/zeroaxiis/GravityGuard?tab=GPL-3.0-1-ov-file)
