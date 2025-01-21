@@ -8,7 +8,6 @@
   - [Configuration](#configuration)
   - [Commands](#commands)
   - [Support](#support)
-  - [Contact](#contact)
   - [License](#license)
 
 ## Introduction
